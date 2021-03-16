@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "poopmod:poop"
+    },
+    "result": "poopmod:burntpoop",
+    "experience": 0.35,
+    "cookingtime": 50
+  }
